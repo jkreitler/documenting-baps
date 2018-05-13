@@ -1,5 +1,5 @@
 ### Analysis Package Elements
-This document lists and describes the elements required for an analysis package. Here, an element is defined as categorical information needed to understand and use the package in a traceable and repeatable manner. Each element needs to be explicitely present in the package's code and supporting documents. All the elements listed below are required for analysis package review, acceptance and deployment.
+This document lists and describes the elements required for an analysis package. Here, an element is defined as categorical information needed to understand and use the package in a traceable and repeatable manner. Each element needs to be explicitly present in the package's code and supporting documents. All the elements listed below are required for analysis package review, acceptance and deployment.
 
 #### Purpose
 Describe the purpose of the analysis package. What does it do? What does the user come away with? Having a clear and concise description is critical to develop, assess, validate and review the analyses and visualizations with colleagues and developers. Plus, it will be critical for the formal review process of your work
